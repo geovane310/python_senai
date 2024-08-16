@@ -1,4 +1,4 @@
-# curso de python no sanai
+# curso de python no sanai 80h"
 
 curso de capacitação python ofertado pelo programa inovatech em parceria com SENAI.
 
