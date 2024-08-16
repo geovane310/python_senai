@@ -1,4 +1,4 @@
-# curso de python
+# curso de python vespertiono 80h.
 
 curso de capacitação python ofertado pelo programa inovatech em parceria com SENAI.
 
