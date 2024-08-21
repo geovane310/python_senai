@@ -3,8 +3,8 @@
 
 
 
-#numero = 10
-#print(numero)
+# numero = 10
+# print(numero)
 
 #numero = numero + 10
 #print(numero)
@@ -83,9 +83,9 @@
 #       contador +=1
 
 
-numero = 10
-while True:
-      numero *= 10
+# numero = 10
+# while True:
+#       numero *= 10
       
-      if numero > 1000000:
-            break 
+#       if numero > 1000000:
+#             break 
