@@ -1,0 +1,4 @@
+nome = ('digite seu nome \n')
+altura = ('altur \n')
+curso = ('nome do curso \n')
+nacionalidade = ('Brasil \n')
