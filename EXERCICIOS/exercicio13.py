@@ -2,13 +2,13 @@
 
 mês = str(input('escolha um mês de 1 a 12 \n'))
 
-if mês == '12' or '1' or '2':
+if mês == '12' or mês== '1' or mês== '2':
      print(f'o mês {mês} é verão')
-elif mês == '3' or '4' or '5':
+elif mês == '3' or mês == '4' or mês== '5':
         print(f'o mês {mês} é outono')
-elif mês == '6' or '7' or '8':
+elif mês == '6' or mês== '7' or mês== '8':
           print(f'o mês {mês} é inverno')
-elif mês == '9' or '10' or '11':
+elif mês == '9' or mês== '10' or mês== '11':
       print(f'o mês {mês} é primavera')
 else:
       print('mes invalido')    
