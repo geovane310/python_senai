@@ -4,3 +4,7 @@ numero = int(input('Digite um numero\n'))
 
 if numero == 0:
       print('numero é igual a zero')
+elif numero > 0:
+      print('numero é positivo')
+elif numero < 0:
+      print('numero é negativo')
